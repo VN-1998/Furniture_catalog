@@ -1,3 +1,2 @@
-
-#Furniture Catalog
+Furniture Catalog
 
